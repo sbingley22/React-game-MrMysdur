@@ -1,0 +1,103 @@
+{"speech": [
+        {
+            "id" : 0,
+            "values":[ 
+                {
+                    "mainChar": true,
+                    "expression": "default",
+                    "text": "I'm sorry for your loss Jessica. Could you recount what happened for me?"
+                }, 
+                {
+                    "mainChar": false,
+                    "expression": "default",
+                    "text": "Thank you kind officer. I loved my father so, so much. And he loved me. I was just paying him a visit to see how he was getting on when I walked in on that awful scene!"
+                },
+                {
+                    "mainChar": false,
+                    "expression": "default",
+                    "text": "It was horrible! I ran out immediately and called the police!"
+                },
+                {
+                    "mainChar": true,
+                    "expression": "default",
+                    "text": "What time was this?"
+                },
+                {
+                    "mainChar": false,
+                    "expression": "innocent",
+                    "text": "I got there around noon and I left as soon as I saw what happened"
+                }
+            ]
+        },
+        {
+            "id" : 1,
+            "values":[ 
+                {
+                    "mainChar": true,
+                    "expression": "default",
+                    "text": "What was your relationship with the victim?"
+                }, 
+                {
+                    "mainChar": false,
+                    "expression": "default",
+                    "text": "We had the most wonderful relationship! If he were alive he would tell you what a wonderful daughter he had!"
+                },
+                {
+                    "mainChar": true,
+                    "expression": "default",
+                    "text": "I see. Thank you"
+                }
+            ]
+        },
+        {
+            "id" : 2,
+            "values":[ 
+                {
+                    "mainChar": true,
+                    "expression": "angry",
+                    "text": "How do you explain your father cutting you out of the will and refusing to pay your debt?"
+                }, 
+                {
+                    "mainChar": false,
+                    "expression": "angry",
+                    "text": "THATS NON OF YOUR BUISNESS!"
+                },
+                {
+                    "mainChar": false,
+                    "expression": "angry",
+                    "text": "He was going senile in his old age. Pay no attention to that sort of stuff. I don't want to talk about it, it makes me upset!"
+                }
+            ]
+        },
+        {
+            "id" : 3,
+            "values":[ 
+                {
+                    "mainChar": true,
+                    "expression": "default",
+                    "text": "What was your relationship with Tom Walters?"
+                }, 
+                {
+                    "mainChar": false,
+                    "expression": "innocent",
+                    "text": "You think somebody like me would be seen dead with that simpleton?"
+                },
+                {
+                    "mainChar": true,
+                    "expression": "angry",
+                    "text": "You're father seems to think so"
+                }, 
+                {
+                    "mainChar": false,
+                    "expression": "angry",
+                    "text": "WELL HE'S A FOOL!"
+                }, 
+                {
+                    "mainChar": false,
+                    "expression": "innocent",
+                    "text": "I mean he's just confused is all"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{"speech": [
+    {
+        "id" : 0,
+        "values":[ 
+            {
+                "mainChar": true,
+                "expression": "default",
+                "text": "Could you recount what happened for me on the day of the murder?"
+            }, 
+            {
+                "mainChar": false,
+                "expression": "default",
+                "text": "M--Murder? It was a suicide!"
+            },
+            {
+                "mainChar": true,
+                "expression": "innocent",
+                "text": "How would you know? You left at 9am did you not? And the police brought you straight here from your home."
+            },
+            {
+                "mainChar": false,
+                "expression": "innocent",
+                "text": "E-eerr. I jus, err..."
+            },
+            {
+                "mainChar": false,
+                "expression": "innocent",
+                "text": "I heard people talkin' in the station! Yeah, that's right, I heard people talkin' in the station"
+            }
+        ]
+    },
+    {
+        "id" : 1,
+        "values":[ 
+            {
+                "mainChar": true,
+                "expression": "default",
+                "text": "What was your relationship with the victim?"
+            }, 
+            {
+                "mainChar": false,
+                "expression": "default",
+                "text": "I was his gardener"
+            },
+            {
+                "mainChar": true,
+                "expression": "default",
+                "text": "Did you enjoy working for him?"
+            }, 
+            {
+                "mainChar": false,
+                "expression": "default",
+                "text": "A jobs a job"
+            },
+            {
+                "mainChar": true,
+                "expression": "default",
+                "text": "I see. Thank you"
+            }
+        ]
+    },
+    {
+        "id" : 2,
+        "values":[ 
+            {
+                "mainChar": true,
+                "expression": "angry",
+                "text": "How do you explain your boot prints leading up to the window from outside the office?"
+            }, 
+            {
+                "mainChar": false,
+                "expression": "angry",
+                "text": "Whats that got to do with anything!"
+            },
+            {
+                "mainChar": false,
+                "expression": "angry",
+                "text": "I'm a gardener! My boot prints are all over the garden"
+            }
+        ]
+    },
+    {
+        "id" : 3,
+        "values":[ 
+            {
+                "mainChar": true,
+                "expression": "default",
+                "text": "What was your relationship with Jessica Richman?"
+            }, 
+            {
+                "mainChar": false,
+                "expression": "default",
+                "text": "We are meant to be together sole mates! I knew it from when I first saw her!"
+            },
+            {
+                "mainChar": true,
+                "expression": "angry",
+                "text": "You sure she feels the same way"
+            }, 
+            {
+                "mainChar": false,
+                "expression": "innocent",
+                "text": "OF COURSE! SHE'S PROMISED TO MARRY ME, ONCE THIS WHOLE BUISNESS HAD BEEN TAKEN CARE OFF AND WE GET THAT INHERI--"
+            }, 
+            {
+                "mainChar": false,
+                "expression": "innocent",
+                "text": "Err -- I mean -- err, once I buy her the engagment ring, yeah, that's it."
+            }, 
+            {
+                "mainChar": false,
+                "expression": "innocent",
+                "text": "Enough questions detective. I'm grieving."
+            }
+        ]
+    }
+]
+}
